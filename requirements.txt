@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+langchainhub
+openai
+requests
+streamlit
+python-dotenv
+Langchain-classic
